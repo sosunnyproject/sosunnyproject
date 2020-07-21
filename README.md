@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🌙  &nbsp; Creative Coder: P5js, processing, openframeworks, tensorflow js, touchDesigner, shader etc.
 
-🔭  &nbsp;I’m currently working on React Javascript, P5 Javascript most of the time.
+🔭  &nbsp;I’m currently working on React, P5 most of the time
 
 <div align = center>
  
