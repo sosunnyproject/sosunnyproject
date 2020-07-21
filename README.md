@@ -24,14 +24,19 @@ Here are some ideas to get you started:
  
 📫   &nbsp; How to reach <b><i> me 나 moi 我 </i></b>
  
-[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=appveyor&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/sosunpark/)](https://www.instagram.com/sosunnyproject/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sosunpark/)](https://www.linkedin.com/in/sosunpark/)
+<a target="_blank" href="https://www.instagram.com/sosunnyproject/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" padding-right="50px" style="padding:60px"/></a>
+<a target="_blank" style="padding:60px" href="www.linkedin.com/in/sosunpark/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a target="_blank" style="padding:60px" href="https://sosunnyproject.github.io/"><img src="https://img.icons8.com/cotton/48/000000/dating-website.png"/></a>
 
 </div>
 
-<div align = center>
+<div align=center>
  
 [![sosunny's github stats](https://github-readme-stats.vercel.app/api?username=sosunnyproject&hide=["contribs","stars"]&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<br />
+
+<a href="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" style="font-size:0.5em">icons by Icons8</a>
+
