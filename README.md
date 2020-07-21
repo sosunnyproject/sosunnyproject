@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <div align = center>
  
-📫   &nbsp; How to reach...
+📫   &nbsp; How to reach <b><i> me 나 moi 我 </i></b>
  
-...my artworks [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=appveyor&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/sosunpark/)](https://www.instagram.com/sosunnyproject/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=appveyor&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/sosunpark/)](https://www.instagram.com/sosunnyproject/)
 
-...my resume [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sosunpark/)](https://www.linkedin.com/in/sosunpark/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sosunpark/)](https://www.linkedin.com/in/sosunpark/)
 
 </div>
 
