@@ -26,11 +26,8 @@ Here are some ideas to get you started:
 
 ...my resume [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sosunpark/)](https://www.linkedin.com/in/sosunpark/)
 
-
-<div align=center>
+<div align = center>
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsosunnyproject)](https://hits.seeyoufarm.com)
+[![sosunny's github stats](https://github-readme-stats.vercel.app/api?username=sosunnyproject&hide=["contribs","stars"]&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-[![sosunny's github stats](https://github-readme-stats.vercel.app/api?username=sosunnyproject&hide=["contribs","stars"]&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
