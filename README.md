@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ☀️ &nbsp; Full-time Frontend Developer
 
-🌙  &nbsp; Creative Coder: P5js, processing, openframeworks, tensorflow js, touchDesigner, shader etc.
+🌙  &nbsp; Creative Coder: P5js, processing, Matter JS, Tensorflow js, touchDesigner, shader etc.
 
-🔭  &nbsp;I’m currently working on React, P5 most of the time
+🔭  &nbsp; Frontend: HTML5, CSS3, ES6, React, Redux, Gatsby
 
 <div align = center>
  
