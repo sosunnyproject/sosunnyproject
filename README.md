@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-☀️ &nbsp; Frontend Dev: HTML5, CSS3, ES6, React, Redux, Gatsby
+☀️ &nbsp; Engineer & Aspiring Technical Artist: C++, C#, Threejs, WebGL, Unity, Unreal(learning), Maya(learning), Houdini(learning)
 
-🌙  &nbsp; Creative Coder: P5js, processing, Matter JS, Tensorflow js, touchDesigner, shader etc.
+🌙  &nbsp; Creative Coder: HTML5, CSS3, ES6, React, P5js, processing, Matter JS, Tensorflow js, touchDesigner, shader etc.
 
 <div align = center>
  
